@@ -11,9 +11,6 @@ You dont actually print any pages.
 
 4: Access to chrome://?id=(EXT-ID-HERE) & "Allow access to file url's" switch 
 
-## Credits 
-magnacronomicon 
-
 ## How to Use 
 1: Go to: chrome://extensions/?id=(EXT-ID-HERE). 
 
