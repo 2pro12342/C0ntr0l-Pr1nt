@@ -1,17 +1,17 @@
-## LTMEAT Print
+# LTMEAT Print
 An Exploit on school Chromebook for Version 126. Remains unpatched in Version 129. 
 You dont actually print any pages. 
 
-# How to Set-Up 
+## How to Set-Up 
 1: V126 - V131 
 2: print menu (control + p) 
 3: Access to chrome-extension://(EXT-ID-HERE)/Main.JS & chrome-extension://(EXT-ID-HERE)/Manifest.JSON 
 4: Access to chrome://?id=(EXT-ID-HERE) & "Allow access to file url's" switch 
 
-# Credits 
+## Credits 
 magnacronomicon 
 
-# How to Use 
+## How to Use 
 1: Go to: chrome://extensions/?id=(EXT-ID-HERE). 
 2: Open in a new tab: chrome-extension://(EXT-ID-HERE)/Manifest.JSON. 
 3: Do (control + p) for print. 
@@ -23,6 +23,6 @@ magnacronomicon
 9: When the number of the pages load, refresh the page & duplicate the tab by right clicking the tab. 
 10: go back to Step 1 & click the "Allow access to file url's" switch twice. the 2nd tab should close. X out the loading tab aka the Main.JS tab. 
 
-# Note 
+## Note 
 This will block your extension forever (Unless you restart or update your computer/chromebook). 
 If you switch to a different computer/chromebook, the extension will renable. 
