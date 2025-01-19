@@ -1,4 +1,4 @@
-# LTMEAT Print
+# C0ntr0l Pr1nt
 An Exploit on school Chromebook for Version 126. Remains unpatched in Version 129. 
 You dont actually print any pages. 
 
